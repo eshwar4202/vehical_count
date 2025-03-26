@@ -1,0 +1,10 @@
+requests
+pandas
+numpy
+datetime
+sklearn.model_selection
+sklearn.ensemble
+sklearn.preprocessing
+pickle
+flask
+pytz
