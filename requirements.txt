@@ -2,9 +2,7 @@ requests
 pandas
 numpy
 datetime
-sklearn.model_selection
-sklearn.ensemble
-sklearn.preprocessing
+scikit-learn
 pickle
 flask
 pytz
