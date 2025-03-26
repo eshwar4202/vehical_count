@@ -3,6 +3,5 @@ pandas
 numpy
 datetime
 scikit-learn
-pickle
 flask
 pytz
